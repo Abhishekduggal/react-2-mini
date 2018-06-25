@@ -23,6 +23,7 @@ class App extends Component {
     this.updateSize = this.updateSize.bind(this);
     this.updateFamily = this.updateFamily.bind(this);
     this.updateEditStatus = this.updateEditStatus.bind(this);
+
   }
   // updateColor
   updateColor(val) {
